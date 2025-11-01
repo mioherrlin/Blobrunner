@@ -9,7 +9,7 @@ marknivå = HEIGHT - 100
 spelare = Actor("spelare", (100,100))
 fiende = Actor("fiende", (WIDTH, marknivå))
 
-gravitation = 0.85
+gravitation = 0.8
 hastighet = 0
 svårighetsgrad = 8
 
